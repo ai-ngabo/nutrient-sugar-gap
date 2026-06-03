@@ -100,9 +100,9 @@ figure.update_layout(
     legend=dict(
         orientation='h',
         yanchor='bottom',
-        y=1.02,
-        xanchor='right',
-        x=1
+        y=-02,
+        xanchor='center',
+        x=0.5
     )
 )
 st.plotly_chart(figure, use_container_width=True)
