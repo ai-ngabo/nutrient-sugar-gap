@@ -100,7 +100,7 @@ figure.update_layout(
     legend=dict(
         orientation='h',
         yanchor='bottom',
-        y=-02,
+        y=-0.2,
         xanchor='center',
         x=0.5
     )
